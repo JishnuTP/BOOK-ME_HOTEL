@@ -1,0 +1,44 @@
+.navbar{
+  height: 60px;
+  background-color: #1E1E1E;
+  display: flex;
+  justify-content: center;
+}
+
+.navContainer{
+  width: 100%;
+  max-width: 1024px;
+  color: rgb(194, 183, 183);
+  
+  font-weight:200;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo1{
+
+  font-weight: 500;
+  font-size: 25px;
+ 
+}
+
+.navButton{
+  margin-left: 20px;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: #560d29;
+  border-radius: 6px;
+  
+}
+
+.navButton a{
+  text-decoration: none;
+  color: black;
+}
+
+.userName{
+  font-weight: bold;
+  color: red;
+}

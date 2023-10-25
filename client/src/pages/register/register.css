@@ -1,0 +1,42 @@
+.card {
+    background: rgba(152, 146, 146, 0.689);
+    border-radius: 15px;
+    max-width: 490px; /* Adjust the max-width as needed */
+    margin: 0 auto; /* To center the card horizontally */
+  }
+  .text-uppercase{
+    font-weight: bold;
+  }
+ 
+  .logo-text {
+    position: absolute;
+    top: 40px; /* Adjust the top position to move the logo and text down */
+    left: 25px;
+    color: rgb(60, 18, 18);
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    margin-bottom: 30vh; /* Adjust the margin as needed to separate the logo and text */
+    font-weight: bold;
+    font-size: 35px;
+
+  }
+  
+  .text {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 100px;
+    color: black;
+    margin-left: 80px;
+  }
+  .text1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+    color: black;
+    margin-left: 150px;
+  }
+  
